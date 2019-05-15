@@ -1,0 +1,2 @@
+# apisprout-container
+apisproutコンテナと、そのログをlogingするfluentdコンテナで取得するdocker-compose.yml
